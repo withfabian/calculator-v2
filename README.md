@@ -1,7 +1,7 @@
  
 # Advanced Calculator
 
-![Preview](https://raw.githubusercontent.com/withfabian/calculator/refs/heads/main/preview.png)
+![Preview](https://raw.githubusercontent.com/withfabian/calculator-v2/refs/heads/main/preview.png)
 
 This project is an advanced web-based calculator built using HTML, CSS, and JavaScript. The calculator includes basic operations, as well as advanced functions like square root, exponentiation, and memory functions. Its interface is designed to be simple, modern, and responsive.
 
@@ -28,7 +28,7 @@ This project is an advanced web-based calculator built using HTML, CSS, and Java
 
 Screenshot of the calculator:
 
-![Preview](https://raw.githubusercontent.com/withfabian/calculator/refs/heads/main/preview.png)
+![Preview](https://raw.githubusercontent.com/withfabian/calculator-v2/refs/heads/main/preview.png)
 
 ## Usage
 
